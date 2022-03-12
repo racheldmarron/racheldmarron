@@ -1,6 +1,6 @@
 ### Hello! 👋 I'm Rachel.
 
-I am a Quality Enablement Tester currently earning my Full Stack Web Development certification from UCI. I am passionate about building accessible tech to better people's lives. Using my marketing, psychology and QA background, I enhance UX in order to increae user acquisition and retention.
+I am a Quality Enablement Tester currently earning my Full Stack Web Development certification from UCI. I am passionate about building accessible tech to better people's lives. Using my marketing, psychology and QA background, I enhance UX in order to increase user acquisition and retention.
 
 - 👧🏼 Pronouns: She/Her
 - 💻 I'm currently learning full stack software development
