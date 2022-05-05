@@ -4,7 +4,7 @@ I am a Quality Enablement Tester currently earning my Full Stack Web Development
 
 - 👧🏼 Pronouns: She/Her
 - 💻 I'm currently learning full stack software development
-- 🦋 My career goals are: Tech Product Manager, QA Engineer, and/or UX Research
+- 🦋 My career goals are: Tech Website Manager, QA Engineer, and/or UX Research
 - 🌲 I love backpacking, hiking, and sustainability 
 - ⚡ Fun fact: I love music and my favorite bands are The Kinks, The Cure, Paul Simon, and Arctic Monkeys.
 - 📫 <a href="mailto:racheldmarron@gmail.com">racheldmarron@gmail.com</a>
